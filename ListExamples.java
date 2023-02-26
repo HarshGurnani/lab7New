@@ -15,6 +15,7 @@ class ListExamples {
         result.add(0, s);
       }
     }
+    System.out.println("changes made!");
     return result;
   }
 
